@@ -1,0 +1,23 @@
+{
+	"age": 1,
+	"hunger": 10,
+	"happiness": 100,
+	"energy": 100,
+	"name": "snuufy",
+	"breed": "germansheperd",
+	"traits": [{
+		"eyeColor": "purple"
+	}, {
+		"hairLength": "long"
+	}],
+	"child": {
+		"age": 1,
+		"hunger": 10,
+		"happiness": 100,
+		"energy": 100,
+		"name": "snuufyChild",
+		"breed": "germansheperd",
+		"traits": [],
+		"child": null
+	}
+}
